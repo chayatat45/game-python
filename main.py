@@ -2,7 +2,7 @@ import pygame
 from sprites import *
 from config import *
 import sys
-
+#12
 class Game:
     def __init__(self):
         pygame.init()
